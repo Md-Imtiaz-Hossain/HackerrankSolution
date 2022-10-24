@@ -1,4 +1,4 @@
-package java;
+package javasolution;
 
 public class O14_Inheritance1 {
     public static void main(String args[]){

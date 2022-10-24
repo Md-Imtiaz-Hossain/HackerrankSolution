@@ -1,4 +1,4 @@
-package java;
+package javasolution;
 
 import java.security.Permission;
 import java.util.Scanner;
